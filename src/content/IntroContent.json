@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
+  "title": "Construimos software de la talla de tu empresa",
   "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Explora más"
     },
     {
-      "title": "Learn more",
+      "title": "Información",
       "color": "#fff"
     }
   ]
