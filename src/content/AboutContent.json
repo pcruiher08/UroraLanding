@@ -1,14 +1,14 @@
 {
   "title": "Comprometidos con la calidad",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "text": "Para Urora, las necesidades del cliente son nuestra prioridad. Desarrollamos utilizando tecnología de vanguardia para entregar los mejores resultados a la medida de las necesidades de cualquier problema.",
   "section": [
     {
-      "title": "Why Antd?",
+      "title": "Por qué Urora?",
       "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
+      "title": "Por qué ?",
       "content": "Styled Components gives you total control over your components.",
       "icon": "notes.svg"
     }

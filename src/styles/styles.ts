@@ -39,7 +39,7 @@ export const Styles = createGlobalStyle`
     textarea {
         border-radius: 4px;
         border: 0;
-        background: rgb(241, 242, 243);
+        background: rgb(242, 93, 9);
         transition: all 0.3s ease-in-out;  
         outline: none;
         width: 100%;  
@@ -84,10 +84,10 @@ export const Styles = createGlobalStyle`
     a {
         text-decoration: none;
         outline: none;
-        color: #2E186A;
+        color: #2596be;
 
         :hover {
-            color: #2e186a;
+            color: #2596be;
         }
     }
     

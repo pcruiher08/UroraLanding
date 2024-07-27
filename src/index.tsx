@@ -1,5 +1,6 @@
+import React from 'react'; // Add this import
 import { BrowserRouter } from "react-router-dom";
-import ReactDOM from "react-dom";
+import { createRoot } from "react-dom/client"; // Import createRoot
 import { I18nextProvider } from "react-i18next";
 import "antd/dist/antd.css";
 
@@ -14,4 +15,12 @@ const App = () => (
   </BrowserRouter>
 );
 
-ReactDOM.render(<App />, document.getElementById("root"));
+const rootElement = document.getElementById("root");
+if (rootElement) {
+  const root = createRoot(rootElement); // Use createRoot instead of ReactDOM.render
+  root.render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  );
+}
