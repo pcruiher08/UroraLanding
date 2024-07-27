@@ -41,7 +41,7 @@ export const Burger = styled("div")`
   display: none;
 
   svg {
-    fill: #2e186a;
+    fill: #f25d09;
   }
 `;
 
@@ -70,7 +70,7 @@ export const CustomNavLinkSmall = styled(NavLink)`
 
 export const Label = styled("span")`
   font-weight: 500;
-  color: #404041;
+  color: #f25d09;
   text-align: right;
   display: flex;
   justify-content: space-between;
